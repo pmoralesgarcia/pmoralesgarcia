@@ -1,4 +1,6 @@
-<a rel="me" href="https://social.lifeofpablo.com/@pablo">Mastodon</a>
+<link rel="me" href="https://social.lifeofpablo.com/@pablo">
+
+
 - 👋 Hi, I’m @pmoralesgarcia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
