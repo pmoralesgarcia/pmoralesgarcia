@@ -1,10 +1,10 @@
 
 
 - 👋 Hi, I’m @pmoralesgarcia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in decentralized authentication and anything in indieweb, indielog, oauth, etc
+- 🌱 I’m currently learning ... Rust, GO, web design, app building.
+- 💞️ I’m looking to collaborate on ... creating a flat-file cms
+- 📫 How to reach me ... Look below!
 
 <!---
 pmoralesgarcia/pmoralesgarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
