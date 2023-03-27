@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 <a rel="me" href="https://social.lifeofpablo.com/@pablo">Mastodon</a>
 
 <a rel="me" href="https://lifeofpablo.com/linkinbio">Linkinbio</a>
+
+<a rel="me" href="https://github.com/pmoralesgarcia">Linkinbio</a>
